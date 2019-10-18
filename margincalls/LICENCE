@@ -1,0 +1,27 @@
+Three simple example Spark jobs that cleans input data, generate a sample of
+equity options trades and calculate margin calls for these trades, respectively.
+
+Copyright (C) 2019 Gimlé Digital & Mikael Berger
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Contact information: E-mail mikaelberger@gimledigital.com
+
+Some input data files have been included with the kind permission of the Eurex
+Exchange and Nasdaq OMX Nordic. These files are not Open Source but subject to
+separate copyrights and shall not be distributed further. For more information,
+please refer to the following websites:
+
+https://www.eurexchange.com
+http://www.nasdaqomxnordic.com
