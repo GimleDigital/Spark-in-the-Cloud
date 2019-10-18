@@ -4,3 +4,5 @@ Some scala code examples aimed at being executed in the cloud via a Databricks c
 1. Margin Calls (directory margincalls) A Spark job that calculates margin calls for a sample set of option deals,
 
 2. TBA
+
+Each subdirecory contains a readme file with instructions for running the jobs.
